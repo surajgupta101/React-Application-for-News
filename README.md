@@ -13,3 +13,9 @@ Also Embedded our Location so one can Locate us on Google Map & Added a Search p
 Key Features: Integrated the payment gateway, Book Magazine.
 
 Tech Stack: HTML, CSS, Javascript , Razor Pay.
+
+![1673622760513](https://github.com/surajgupta101/React-Application-for-News/assets/56082030/fcef6c74-fe76-4ca9-b609-d2da0437f269)
+
+![1673622690519](https://github.com/surajgupta101/React-Application-for-News/assets/56082030/f861918e-c65a-40d2-bb90-931b842a4b13)
+
+![1673622501114](https://github.com/surajgupta101/React-Application-for-News/assets/56082030/bf9e636c-e732-431b-8e1b-573ebb5b617c)
